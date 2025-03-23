@@ -60,30 +60,26 @@ const FullLayout = () => {
           <Box sx={{ minHeight: "calc(100vh - 170px)" }}>
             <Outlet />
           </Box>
-         
+
           {/* ------------------------------------------- */}
           {/* End Page */}
           {/* ------------------------------------------- */}
         </Container>
-        <Box sx={{pt:6, pb:3, display:'flex', justifyContent:'center'}}>
-            <Typography>
-              © 2025 All rights reserved by
-              <Link target="_blank" href="https://www.adminmart.com">
-                <span>
-                  AdminMart.com
-                </span>
-              </Link>
-              </Typography>
-              
-              <Typography>
-                .Distributed by
-              <Link target="_blank" href="https://themewagon.com">
-                <span>
-                  ThemeWagon
-                </span>
-              </Link>
-            </Typography>
-          </Box>
+        <Box sx={{ pt: 6, pb: 3, display: "flex", justifyContent: "center" }}>
+          <Typography>
+            © 2025 All rights reserved by
+            <Link target="_blank" href="https://www.adminmart.com">
+              <span>AdminMart.com</span>
+            </Link>
+          </Typography>
+
+          <Typography>
+            .Distributed by
+            <Link target="_blank" href="https://themewagon.com">
+              <span>ThemeWagon</span>
+            </Link>
+          </Typography>
+        </Box>
       </PageWrapper>
     </MainWrapper>
   );
