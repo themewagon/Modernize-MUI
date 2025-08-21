@@ -1,8 +1,27 @@
-# React + Vite
+# Mamba – Free Bootstrap 5 Multipage Portfolio Website Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Preview
 
-Currently, two official plugins are available:
+ - [Demo](https://themewagon.github.io/mamba/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Download
+ - [Download from ThemeWagon](https://themewagon.github.io/Modernize-MUI/)
+ 
+ 
+## Getting Started
+
+Clone from GitHub 
+```
+https://github.com/themewagon/Modernize-MUI.git
+```
+
+## Author
+
+Design and code are completely written by AdminMart's design and development team.  
+
+
+## License
+
+ - Design and Code is Copyright &copy; [AdminMart](https://www.adminmart.com/)
+ - Licensed under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
